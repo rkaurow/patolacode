@@ -4,3 +4,5 @@ while b==1:
     a=input('Masukkan Nama Kota : ')
     print(daftar_kota.get(a))
     b=int(input("Ulang 1.ya 2.no :"))
+
+print("Terima Kasih")
